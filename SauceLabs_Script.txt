@@ -25,7 +25,7 @@ String username = System.getenv("SAUCE_USERNAME");
 
 
 1.
-2. 
+2. git commit 
 
 
 Error while downloading app on real device through Saucelabs: 
