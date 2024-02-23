@@ -18,6 +18,15 @@ String username = System.getenv("SAUCE_USERNAME");
         capabilities.setCapability("name", name.getMethodName());
         //      You can use  storage:filename=" +appName if you uploaded your app to Saucd Storage
 //        capabilities.setCapability("app", "storage:filename=" +appName);
-        capabilities.setCapability("app", "https://github.com/saucelabs/sample-app-mobile/releases/download/2.7.1/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk");
+        capabilities.setCapability("app", "https://github.com/sheetalghevade/Mobile_automation.git/Solodroid_E-CommerceApp Demo_3.2.0.apk");
 
         capabilities.setCapability("appWaitActivity", "com.swaglabsmobileapp.MainActivity");
+
+
+
+
+
+
+Error while downloading app on real device through Saucelabs
+
+App Installation Error: could not install ephemeral app 'https://github.com/sheetalghevade/Mobile_automation.git/Solodroid_E-CommerceApp Demo_3.2.0.apk' Error: Failed to install app (error ID: 415a86ac-60ec-42c1-831f-c504fc589c54).
