@@ -24,8 +24,13 @@ String username = System.getenv("SAUCE_USERNAME");
 
 
 
+<<<<<<< HEAD
 1. push/pull
 2. git commit 
+=======
+1.
+2. 
+>>>>>>> c481a0bf164f635388763139baa223c7236dccaf
 
 
 Error while downloading app on real device through Saucelabs: 
