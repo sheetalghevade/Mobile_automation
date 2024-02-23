@@ -24,9 +24,10 @@ String username = System.getenv("SAUCE_USERNAME");
 
 
 
+1.
+2. 
 
 
-
-Error while downloading app on real device through Saucelabs
+Error while downloading app on real device through Saucelabs: 
 
 App Installation Error: could not install ephemeral app 'https://github.com/sheetalghevade/Mobile_automation.git/Solodroid_E-CommerceApp Demo_3.2.0.apk' Error: Failed to install app (error ID: 415a86ac-60ec-42c1-831f-c504fc589c54).
