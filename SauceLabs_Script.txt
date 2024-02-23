@@ -24,7 +24,8 @@ String username = System.getenv("SAUCE_USERNAME");
 
 
 
-
+1.
+2. 
 
 
 Error while downloading app on real device through Saucelabs: 
